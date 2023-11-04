@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="[https://github.com/bennyxdev/bennyxdev/blob/master/code.gif](https://github.com/BennyxDev/BennyxDev/blob/main/code.gif)?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/bennyxdev/bennyxdev/blob/master/code.gif?raw=true" width="500" height="320" />
 # My Name is Benny :D
 **I Am a Average Python/Lua Developer**
 
