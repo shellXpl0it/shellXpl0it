@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1114643683896205392/1170182558185689098/IMG_0764.jpg?ex=65581c6e&is=6545a76e&hm=dc25d40c6b47fec41486d2e35cb7f642639e5b852bbb62f532d0aa01c8495a21&" alt="Mein-Profilbild" width="100" height="150" />
+<img src="https://cdn.discordapp.com/attachments/1114643683896205392/1170182558185689098/IMG_0764.jpg?ex=65581c6e&is=6545a76e&hm=dc25d40c6b47fec41486d2e35cb7f642639e5b852bbb62f532d0aa01c8495a21&" alt="Mein-Profilbild" width="100" height="250" />
 
 # My Name is Benny :D
 **I Am a Average Python/Lua Developer**
