@@ -1,4 +1,4 @@
-<img src="[https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png](https://github.com/BennyxDev/BennyxDev/icon/header.png](https://github.com/BennyxDev/BennyxDev/blob/main/icon/header.png)" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+<img src="[https://github.com/BennyxDev/BennyxDev/blob/main/icon/header.png]" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 # My Name is Benny :D
 **I Am a Average Python/Lua Developer**
 
