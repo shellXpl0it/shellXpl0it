@@ -1,6 +1,6 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 # My Name is Benny :D
-**I Am a Average Python/Lua Developer**
+**I Am a 15yo Average Python/Lua Developer**
 
 ## 🔧 Languages
 <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="mysql">
