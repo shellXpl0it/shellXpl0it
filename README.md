@@ -1,4 +1,4 @@
-<img src="[https://github.com/BennyxDev/BennyxDev/icon/header.png]" alt="header.." style="text-align: center; margin-bottom: 30px;" />
+<img src="[https://github.com/BennyxDev/BennyxDev/icon/header.png]"/>
 # My Name is Benny :D
 **I Am a Average Python/Lua Developer**
 
