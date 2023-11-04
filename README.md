@@ -24,4 +24,4 @@ Discord: https://discord.gg/jQsJjhwrcM
 /
 EMail: arctis.netzwerk@aol.com
 
-<img src="https://cdn.discordapp.com/attachments/1114643683896205392/1170183340373053502/IMG_0738.jpg?ex=65581d29&is=6545a829&hm=650b038d5d501a3867751ae1a35edcb2d120ec88075d1549301a1e5bdf8048da&" alt="Mein-Profilbild" width="100" height="250" />
+<img src="https://cdn.discordapp.com/attachments/1114643683896205392/1170183340373053502/IMG_0738.jpg?ex=65581d29&is=6545a829&hm=650b038d5d501a3867751ae1a35edcb2d120ec88075d1549301a1e5bdf8048da&" alt="Mein-Profilbild" width="100" height="200" />
