@@ -1,3 +1,6 @@
+# My Name is Benny :D
+**I Am a Average Python/Lua Developer**
+
 ## 🔧 Languages
 <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="mysql">
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua">
