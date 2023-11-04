@@ -1,3 +1,4 @@
+**----------------------------------------------------------------------------------------------------------------------------**
 # My Name is Benny :D
 **I Am a Average Python/Lua Developer**
 
@@ -16,5 +17,8 @@
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" alt="Linux">
 <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows" alt="Windows">
 
-### 🌐 LINKS
-<img src="https://arctis-network.serveftp.com/">
+### 🌐 LINKS/Contact
+https://arctis-network.serveftp.com/
+https://discord.gg/jQsJjhwrcM
+arctis.netzwerk@aol.com
+**----------------------------------------------------------------------------------------------------------------------------**
