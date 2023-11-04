@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua">
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS3">
-<img src="https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vue.js" alt="vue">
 
 ## 🔧 Tools
 <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
