@@ -1,4 +1,3 @@
-**----------------------------------------------------------------------------------------------------------------------------**
 # My Name is Benny :D
 **I Am a Average Python/Lua Developer**
 
@@ -23,4 +22,3 @@ Website: https://arctis-network.serveftp.com/
 Discord: https://discord.gg/jQsJjhwrcM
 /
 EMail: arctis.netzwerk@aol.com
-**-------------------------**
