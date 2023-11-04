@@ -1,5 +1,4 @@
-e![mein-bild](https://cdn.discordapp.com/attachments/1114643683896205392/11661081544011285e8/IMG_0535.jpg?ex=65528459&is=65400f59&hm=cfec9db79c64c7b6581609cf23699af3313f88b249c6384f2dc685a8b487eb7b&)
-
+<img src="[https://example.com/dein-bild.jpg](https://cdn.discordapp.com/attachments/1114643683896205392/1170182558185689098/IMG_0764.jpg?ex=65581c6e&is=6545a76e&hm=dc25d40c6b47fec41486d2e35cb7f642639e5b852bbb62f532d0aa01c8495a21&)" alt="Mein Profilbild" width="100" height="100" />
 
 # My Name is Benny :D
 **I Am a Average Python/Lua Developer**
