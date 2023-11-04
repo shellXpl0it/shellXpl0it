@@ -18,7 +18,9 @@
 <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows" alt="Windows">
 
 ### 🌐 LINKS/Contact
-Wwebsite: https://arctis-network.serveftp.com/
+Website: https://arctis-network.serveftp.com/
+/
 Discord: https://discord.gg/jQsJjhwrcM
+/
 EMail: arctis.netzwerk@aol.com
 **----------------------------------------------------------------------------------------------------------------------------**
