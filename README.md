@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea" alt="IntelliJ IDEA">
 <img src="https://img.shields.io/badge/git-black?style=flat-square&logo=git">
+<img src="https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb">
 
 
 ## 🔧 Operating Systems
