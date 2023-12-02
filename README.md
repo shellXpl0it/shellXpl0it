@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/python-black?style=flat-square&logo=python"
 <img src="https://custom-icon-badges.herokuapp.com/badge/WebSockets-black?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets">
 
+### 🔧 Frameworks
+
 ![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
 ![nest](https://img.shields.io/badge/nest-black?style=flat-square&logo=nestjs)
 ![hibernate](https://img.shields.io/badge/hibernate-black?style=flat-square&logo=hibernate)
