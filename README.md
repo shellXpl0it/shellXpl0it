@@ -14,8 +14,24 @@
 ## 🔧 Tools
 ![vscode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellij-idea)
+![datagrip](https://img.shields.io/badge/datagrip-black?style=flat-square&logo=datagrip&logoColor=28D28D)
+![outlook](https://custom-icon-badges.herokuapp.com/badge/outlook-black.svg?logo=outlook&logoColor=blue&style=flat-square)
 ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
+![windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows&logoColor=0078D6)
+![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
+![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
+![gitlab](https://img.shields.io/badge/gitlab-black?style=flat-square&logo=gitlab)
+![github actions](https://img.shields.io/badge/github_actions-black?style=flat-square&logo=github-actions)
+![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
+![postgresql](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
 ![mongodb](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb)
+![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
+![firebase](https://img.shields.io/badge/firebase-black?style=flat-square&logo=firebase)
+![android](https://img.shields.io/badge/android-black?style=flat-square&logo=android)
+![gitkraken](https://img.shields.io/badge/gitkraken-black?style=flat-square&logo=gitkraken)
+![bitwarden](https://img.shields.io/badge/bitwarden-black?style=flat-square&logo=bitwarden&logoColor=175DDC)
+![wordpress](https://img.shields.io/badge/wordpress-black?style=flat-square&logo=wordpress)
+![joomla](https://img.shields.io/badge/joomla-black?style=flat-square&logo=joomla)
 
 ## 🔧 Operating Systems
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" alt="Linux">
