@@ -10,6 +10,29 @@
 <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js"> 
 <img src="https://img.shields.io/badge/python-black?style=flat-square&logo=python"
 <img src="https://custom-icon-badges.herokuapp.com/badge/WebSockets-black?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets">
+![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
+![nest](https://img.shields.io/badge/nest-black?style=flat-square&logo=nestjs)
+![hibernate](https://img.shields.io/badge/hibernate-black?style=flat-square&logo=hibernate)
+![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
+![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
+![react](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
+![solid](https://img.shields.io/badge/solid-black?style=flat-square&logo=solid&&logoColor=4D84C4)
+![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
+![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
+![prisma](https://img.shields.io/badge/prisma-black?style=flat-square&logo=prisma&logoColor=2D3748)
+![graphql](https://img.shields.io/badge/graphql-black?style=flat-square&logo=graphql&logoColor=E10098)
+![apollo](https://img.shields.io/badge/apollo-black?style=flat-square&logo=apollo-graphql)
+![discord](https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord)
+![electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
+![javafx](https://custom-icon-badges.herokuapp.com/badge/javafx-black.svg?logo=java&logoColor=white&style=flat-square)
+![react-native](https://img.shields.io/badge/react_native-black?style=flat-square&logo=react)
+![angular](https://img.shields.io/badge/angular-black?style=flat-square&logo=angular&logoColor=DD0031)
+![socketio](https://custom-icon-badges.herokuapp.com/badge/socketio-black.svg?logo=socketio&logoColor=white&style=flat-square)
+![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
+![puppeteer](https://img.shields.io/badge/puppeteer-black?style=flat-square&logo=puppeteer)
+![selenium](https://img.shields.io/badge/selenium-black?style=flat-square&logo=selenium)
+![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
 
 ## 🔧 Tools
 ![vscode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
