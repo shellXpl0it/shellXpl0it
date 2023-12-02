@@ -12,12 +12,10 @@
 <img src="https://custom-icon-badges.herokuapp.com/badge/WebSockets-black?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets">
 
 ## 🔧 Tools
-<img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea" alt="IntelliJ IDEA">
-<img src="https://img.shields.io/badge/git-black?style=flat-square&logo=git">
-![mongodb](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb)
-
 ![vscode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellij-idea)
+![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
+![mongodb](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb)
 
 ## 🔧 Operating Systems
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" alt="Linux">
