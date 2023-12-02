@@ -11,6 +11,12 @@
 <img src="https://img.shields.io/badge/python-black?style=flat-square&logo=python"
 <img src="https://custom-icon-badges.herokuapp.com/badge/WebSockets-black?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets">
 
+![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
+![rust](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust)
+![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
+![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
+![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
+
 ## 🔧 Frameworks
 
 ![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
