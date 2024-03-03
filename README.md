@@ -3,6 +3,7 @@
 **I Am a 17yo Average Python/Lua Developer**
 
 ## 🔧 Languages
+<a href="#"><img src="https://img.shields.io/badge/-Lua-darkblue?style=flat-square&logo=lua">
 <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="mysql">
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua">
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML5">
