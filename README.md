@@ -1,5 +1,5 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-# My Name is Benny :D
+# My Name is Arctis :D
 **I Am a 17yo Average Python/Lua Developer**
 
 ## 🔧 Languages
