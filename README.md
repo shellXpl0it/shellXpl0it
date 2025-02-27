@@ -1,4 +1,4 @@
-![](https://github.com/Arctistiament25/Arctistiament25/content/header.png)
+![](https://raw.githubusercontent.com/Arctistiament25/Arctistiament25/main/content/header.png)
 # My Name is Arctis :D
 **Average Python/Lua Developer**
 
