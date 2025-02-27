@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arctistiament25/Arctistiament25/main/content/header.png" alt="Header">
-</p>
+![Header](https://raw.githubusercontent.com/Arctistiament25/Arctistiament25/main/content/header.png)
 
 # My Name is Arctis :D
 **Average Python/Lua Developer**
