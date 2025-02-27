@@ -1,3 +1,5 @@
+<img src="https://github.com/Arctistiament25/Arctistaiment25/raw/main/content/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developerrrrrr 🚀 I ❤️ Happy Hardcore ❤️">
+
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 # My Name is Arctis :D
 **Average Python/Lua Developer**
