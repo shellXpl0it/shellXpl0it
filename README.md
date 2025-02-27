@@ -1,4 +1,7 @@
-![](https://raw.githubusercontent.com/Arctistiament25/Arctistiament25/main/content/header.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arctistiament25/Arctistiament25/main/content/header.png" alt="Header">
+</p>
+
 # My Name is Arctis :D
 **Average Python/Lua Developer**
 
