@@ -1,7 +1,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-# My Name is Arctis :D
-**Average Python/Lua Developer**
+# My Name is ShellXploit :D
+**Average Firmware Developer**
 
 ## ⚡ Frameworks & Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
