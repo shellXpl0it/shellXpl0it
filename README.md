@@ -28,7 +28,7 @@
 
 
 ### 🌐 LINKS/Contact
-Website: DOWN
+Website: https://arctis.lol/
 /
 Discord: EXPIRED
 /
